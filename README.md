@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creative colleagues
 
 
-<p align="center">
+<p align="left">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bravevin/count.svg?" /><br>
 </p>
