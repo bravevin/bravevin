@@ -2,7 +2,7 @@
 - 👀 I’m also interested in Go/Java/PHP.
 - 🌱 I’m currently learning Golang tutorial.
 - 💞️ I’m looking to collaborate on creative colleagues.
-- 📫 Blog: [imurlobster](https://bravevin.github.io).
+- 📫 Blog: [bravevin](https://bravevin.github.io).
 
 
 <p align="center">
