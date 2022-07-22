@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @bravevin, a frontend engineer
-- 👀 I’m also interested in Go/Java/PHP
-- 🌱 I’m currently learning Golang tutorial
-- 💞️ I’m looking to collaborate on creative colleagues
+- 👋 Hi, I’m @bravevin, a frontend engineer.
+- 👀 I’m also interested in Go/Java/PHP.
+- 🌱 I’m currently learning Golang tutorial.
+- 💞️ I’m looking to collaborate on creative colleagues.
+- 📫 Blog: [imurlobster](https://bravevin.github.io).
 
 
 <p align="center">
